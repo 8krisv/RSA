@@ -45,7 +45,7 @@ int get_bitlen(int* bitlen){
 
     int nitems;
 
-    printf("Enter the length in bits of the prime numbers p and q:\n");
+    printf("Enter the length in bits of prime numbers p and q:\n");
     printf("-> ");
 
     nitems=scanf("%d",bitlen);
