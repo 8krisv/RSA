@@ -1,0 +1,5 @@
+
+This program is the implementation of the RSA algorithm in the C programing lenguage using the gmp (gnu multiprecicion library) for arbitrary length numbers. The program receive as input a file with the number in base 10 to be encrypted or decrypted.
+
+
+WARNING: The <time.h> library sometimes gives inconsistent time measurements in windows.
