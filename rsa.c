@@ -75,7 +75,7 @@ int generate_keys(public_key* publicKey, private_key*  privateKey){
         return 0;
     }
 
-    printf("Generando llaves publica y privada....\n");
+    printf("Generating public and private keys.....\n");
     
     /*intitialize variables*/
     mpz_inits(phi_n,subp,subq,gcd_e_phi,mul,mod,NULL);
